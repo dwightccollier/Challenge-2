@@ -1,2 +1,1 @@
-The VBA source code should work on all workbooks, my computer just wasn't able to handle the request.
-I was able to confirm that it was functional out of the times that the program ran successfully. 
+I redid my VBA code it should run quickly on your computer now, it worked significantly better on mine! The challenge here was to do a lot of financial data analysis using Excel VBA code to organize the data based on its values and color code them
